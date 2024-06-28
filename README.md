@@ -2,7 +2,7 @@
 
 ### Repository Overview
 
-This repository contains my notes and project files for the ninth module of a Python 'bootcamp' I completed as part of my independent learning. This was an in-depth Udemy course with multiple video lectures and exercises, to be completed in a Jupyter environment. This repository includes my notes on the videos for this module, slides from the lectures, and the project .ipynb files.
+This repository contains my notes and project files for the ninth module of a Python 'bootcamp' I completed as part of my independent learning. This was an in-depth Udemy course with 156 video lectures and exercises, to be completed in a Jupyter environment. This repository includes my notes on the videos for this module, slides from the lectures, and the project .ipynb files.
 
 ### Course Details
 - **Course URL:** [The Complete Python Bootcamp From Zero to Hero in Python](https://www.udemy.com/course/complete-python-bootcamp/?couponCode=ST18MT62524)
