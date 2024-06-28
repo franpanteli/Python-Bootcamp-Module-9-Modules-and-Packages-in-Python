@@ -14,7 +14,7 @@ This repository contains my notes and project files for the ninth module of a Py
 This repository is organised into the following sections:
 
 1. **Jupyter Notebooks - Modules and Packages:**
-   This directory contains Jupyter notebooks that cover various aspects of modules and packages in Python.
+   this directory contains Jupyter notebooks that cover various aspects of modules and packages in Python.
    - [00-Modules_and_Packages](Jupyter%20Notebooks%20-%20Modules%20and%20Packages/00-Modules_and_Packages)
      - [MyMainPackage](Jupyter%20Notebooks%20-%20Modules%20and%20Packages/00-Modules_and_Packages/MyMainPackage)
        - [SubPackage](Jupyter%20Notebooks%20-%20Modules%20and%20Packages/00-Modules_and_Packages/MyMainPackage/SubPackage)
@@ -31,13 +31,13 @@ This repository is organised into the following sections:
    - [Useful_Info_Notebook.ipynb](Jupyter%20Notebooks%20-%20Modules%20and%20Packages/Useful_Info_Notebook.ipynb)
 
 2. **Notes on Videos - Module 9 Modules and Packages in Python:**
-   This section contains PDF notes summarising the key points from the video lectures in Module 9.
+   this section contains PDF notes summarising the key points from the video lectures in Module 9.
    - [1 of 3 Pip Install and PyPi](Notes%20on%20Videos%20-%20Module%209%20Modules%20and%20Packages%20in%20Python/1%20of%203%20Pip%20Install%20and%20PyPi.pdf)
    - [2 of 3 Modules and Packages](Notes%20on%20Videos%20-%20Module%209%20Modules%20and%20Packages%20in%20Python/2%20of%203%20Modules%20and%20Packages.pdf)
    - [3 of 3 \_\_name\_\_ and "\_\_main\_\_"](Notes%20on%20Videos%20-%20Module%209%20Modules%20and%20Packages%20in%20Python/3%20of%203%20__name__%20and%20__main__.pdf)
 
 3. **Slides:**
-   This section contains the slides used in the video lectures.
+   this section contains the slides used in the video lectures.
    - [Modules and Packages Slides](Modules%20and%20Packages%20Slides.pdf)
 
 ### To Clone This Repository
